@@ -1,0 +1,5 @@
+1. Facebook Hate Memes (FHM): https://www.kaggle.com/datasets/parthplc/facebook-hateful-meme-dataset/data
+
+2. MultiOFF: https://drive.google.com/drive/folders/1hKLOtpVmF45IoBmJPwojgq6XraLtHmV6
+
+3. Multimedia Automatic Misogyny Identification (MAMI): https://www.kaggle.com/datasets/nrizwan/mami-dataset
